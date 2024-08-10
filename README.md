@@ -5,6 +5,7 @@ Projeto feito apartir do curso de laravel da Node Studio Treinamentos.
 ## Como executar:
 
 ### 1.0 Clonar o Repositório
+``cd \xampp\htdocs``  
 ``git clone https://github.com/WellitonGioriSilva/Ecommerce-Laravel.git``  
 ``cd Ecommerce-Laravel``
 
@@ -23,3 +24,5 @@ Projeto feito apartir do curso de laravel da Node Studio Treinamentos.
 ### 5.0 Servir o Projeto
 #### 5.1 Por fim, inicie o servidor de desenvolvimento Laravel (O projeto estará disponível em http://localhost:8000.):  
 ``php artisan serve``
+
+### Obs: A pasta do projeto deve estar dentro
