@@ -24,5 +24,3 @@ Projeto feito apartir do curso de laravel da Node Studio Treinamentos.
 ### 5.0 Servir o Projeto
 #### 5.1 Por fim, inicie o servidor de desenvolvimento Laravel (O projeto estará disponível em http://localhost:8000.):  
 ``php artisan serve``
-
-### Obs: A pasta do projeto deve estar dentro
