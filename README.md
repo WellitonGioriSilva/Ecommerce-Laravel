@@ -5,7 +5,7 @@ Projeto feito apartir do curso de laravel da Node Studio Treinamentos.
 ## Como executar:
 
 ### 1.0 Clonar o Repositório
-``git clone https://github.com/WellitonGioriSilva/Ecommerce-Laravel.git``
+``git clone https://github.com/WellitonGioriSilva/Ecommerce-Laravel.git``  
 ``cd Ecommerce-Laravel``
 
 ### 2.0 Instalar Dependências
