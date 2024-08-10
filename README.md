@@ -7,7 +7,7 @@ Projeto feito apartir do curso de laravel da Node Studio Treinamentos.
 ### 1.0 Clonar o Repositório
 ``cd \xampp\htdocs``  
 ``git clone https://github.com/WellitonGioriSilva/Ecommerce-Laravel.git``  
-``cd Ecommerce-Laravel``
+``cd Ecommerce-Laravel\curso-laravel-ecommerce``
 
 ### 2.0 Instalar Dependências
 ``composer install``
